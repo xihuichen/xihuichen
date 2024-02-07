@@ -1,6 +1,8 @@
-### Hi there 👋
+### Welcome to my snapshot of off-work time 👋
 - 🔭 I’m currently working on automation in Fund Risk Management industry
+  However, due to contract confidentiality reasons, the scripts I created at work belongs to my employer, so wouldn't be uploaded here. If you want to know this side of me, navigate down to RiskAnalytics-Tool and re-striking option those two python repositories, they were created six years ago when I worked for an investment bank developing counterparty credit risk exposure calculation, I also developed NLP tool to categorize different trade requests but it's still in use so would be a breach if I uploaded here.
 - 🌱 I’m currently learning Software Development through ATU part time post graduate certificate
+  The repositories using Java are the projects I worked on through my course, expected to have more repositories focusing on unit test, agile software development, web application development.
 - 💬 Ask me about financial mathematics and its application in real world risk management, algorithm design and data analytics
 - 📫 How to reach me: xihui.chen@foxmail.com
 - 😄 Pronouns: She/Her/Hers
