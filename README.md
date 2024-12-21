@@ -6,7 +6,7 @@
 - 💬 Ask me about financial mathematics and its application in real world risk management, algorithm design and data analytics
 - 📫 How to reach me: xihui.chen@foxmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: My resiliency and positive curiosity drives me to Amazon jungle in Peru -- watched birdies there and took some amazing photos, achieved my childhood dream
+- ⚡ Fun fact: My resiliency and positive curiosity drove me to Amazon jungle in Peru -- watched birdies there and took some amazing photos, achieved my childhood dream
 <!--
 **xihuichen/xihuichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
